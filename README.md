@@ -7,3 +7,10 @@
 
 #### Коллекции
 * [Массивы](./arrays/README.md)
+* [Map](./map/README.md)
+
+
+
+* [Интерфейсы](./interfaces/README.md)
+
+[TODOs](./todo/README.md)
