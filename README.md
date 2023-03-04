@@ -7,3 +7,6 @@
 
 #### Коллекции
 * [Массивы](./arrays/README.md)
+* [Map](./map/README.md)
+
+[TODOs](./todo/README.md)
