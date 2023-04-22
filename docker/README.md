@@ -33,3 +33,12 @@ docker volume prune
 https://youtu.be/lmTpT4eDZQk?t=4672
 
 https://github.com/jm-program/docker-kubernetes-workshop/blob/master/1.docker/docker.pdf
+
+
+
+Переименовать контейнер
+docker rename old_name new_name
+
+Подключиться к контейнеру по имени
+docker exec -it container_name /bin/bash
+
