@@ -10,9 +10,12 @@ import (
 	"strconv"
 )
 
+const (
+	botToken = ""
+	botApi   = ""
+)
+
 func main() {
-	botToken := ""
-	botApi := ""
 	botUrl := botApi + botToken
 	offset := 0
 	for {
