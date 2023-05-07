@@ -10,9 +10,12 @@ import (
 	"strconv"
 )
 
+const (
+	botToken = ""
+	botApi   = ""
+)
+
 func main() {
-	botToken := ""
-	botApi := ""
 	botUrl := botApi + botToken
 	offset := 0
 	for {
@@ -29,7 +32,7 @@ func main() {
 }
 
 func getUpdates(botUrl string, offset int) ([]Update, error) {
-	resp, err := http.Get(botUrl + "/getUpdates" + "&offset=" + strconv.Itoa(offset))
+	resp, err := http.Get(botUrl + "/getUpdates" + "?offset=" + strconv.Itoa(offset))
 	if err != nil {
 		return nil, err
 	}
