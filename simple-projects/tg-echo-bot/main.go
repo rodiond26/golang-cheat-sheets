@@ -11,8 +11,8 @@ import (
 )
 
 const (
-	botToken = ""
-	botApi   = ""
+	botApi   = "https://api.telegram.org/bot"
+	botToken = "" // env.botToken
 )
 
 func main() {
