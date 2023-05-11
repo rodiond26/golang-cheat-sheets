@@ -8,22 +8,30 @@
 
 #### Типы данных
 
-* [Типы данных](./datatypes/README.md)
+* [Простые типы данных](./datatypes/README_1.md)
+    * Целые числа
+    * Числа с плавающей точкой
+    * Логический тип
+    * Строки
+* [Составные типы данных](./datatypes/README_2.md)
+    * Массивы
+    * Срезы
+    * Отображения
+    * Структуры
+
+#### Функции
+
+* [Свойства функций](./functions/README_1.md)
+* [Функция new](./functions/README_2.md)
+* [Методы](./functions/README_2.md)
 
 #### Управление потоком выполнения
 
-* [for each](./for-each/README.md)
+* [Циклы for](./for-each/README.md)
 * [switch](./switch/README.md)
-
-#### Коллекции
-
-* [Массивы](./arrays/README.md)
-* [Map](./map/README.md)
 
 
 * [Интерфейсы](./interfaces/README.md)
-
----
 
 #### Работа с каналами
 

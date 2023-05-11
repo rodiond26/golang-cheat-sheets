@@ -1,4 +1,6 @@
-### Использование switch
+### switch
+
+---
 
 * [Простой switch](./typical/main.go)
 * [default](./default/main.go)
