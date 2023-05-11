@@ -22,6 +22,8 @@
 #### Функции
 
 * [Свойства функций](./functions/README_1.md)
+* [Функция new](./functions/README_2.md)
+* [Методы](./functions/README_2.md)
 
 #### Управление потоком выполнения
 
