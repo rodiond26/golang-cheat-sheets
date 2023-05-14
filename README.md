@@ -30,8 +30,13 @@
 * [Циклы for](./for-each/README.md)
 * [switch](./switch/README.md)
 
+#### Интерфейсы
 
 * [Интерфейсы](./interfaces/README.md)
+
+#### ООП
+
+* [ООП в Golang](./interfaces/README.md)
 
 #### Работа с каналами
 
