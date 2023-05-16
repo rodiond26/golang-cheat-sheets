@@ -38,9 +38,14 @@
 
 * [ООП в Golang](./interfaces/README.md)
 
-#### Работа с каналами
+#### Многопоточность
 
+* [Процессы и потоки](./multithreading/README_1.md)
 * [Работа с каналами](./channels/README.md)
+
+#### Работа с ошибками
+
+* [Работа с ошибками](./errors/README_1.md)
 
 ---
 
