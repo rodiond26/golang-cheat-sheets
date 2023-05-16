@@ -42,6 +42,7 @@
 
 * [Процессы и потоки](./multithreading/README_1.md)
 * [Работа с каналами](./channels/README.md)
+* [Примитивы синхронизации](./multithreading/README_2.md)
 
 #### Работа с ошибками
 
